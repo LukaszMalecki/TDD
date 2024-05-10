@@ -2,7 +2,7 @@
 
 The goal of this chapter was to teach about DI and how to transform an existing project into one using DI.
 
-The task was make an API app which can return random and real weather data and then to change implementation to support Dependency Injection.
+The task was to make an API app which can return random and real weather data and then to change implementation to support Dependency Injection.
 
 The solution consists of a .net web API app.
 
