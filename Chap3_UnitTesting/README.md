@@ -1,4 +1,4 @@
-Getting Started with Unity Testing - Chapter 3
+# Getting Started with Unity Testing - Chapter 3
 
 The goal of this chapter was to teach about Unit Testing using xUnit and some of the practices surrounding this topic.
 
